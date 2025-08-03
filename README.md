@@ -29,6 +29,8 @@
 ![C++](https://img.shields.io/badge/C++-17-blue.svg)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-brightgreen.svg)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-orange.svg)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-yellow.svg)
+![Data Science](https://img.shields.io/badge/Data%20Science-purple.svg)
 
 ## 🧠 Currently Learning
 
