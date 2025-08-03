@@ -23,13 +23,12 @@
 - [Apollo 11 AGC Code](https://github.com/chrislgarry/Apollo-11)  
   *A legendary example of engineering—explore the code that powered the first moon landing!*
 
-## 📊 Top Languages
+## 🏷️ Badges
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thismyrepo&layout=compact&theme=tokyonight)
-
-## 🏆 Profile Trophy
-
-![Profile Trophy](https://github-profile-trophy.vercel.app/?username=thismyrepo&theme=tokyonight&no-bg=true&row=1&column=8)
+![Python](https://img.shields.io/badge/python-3.8-blue.svg)
+![C++](https://img.shields.io/badge/C++-17-blue.svg)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-brightgreen.svg)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-orange.svg)
 
 ## 🧠 Currently Learning
 
