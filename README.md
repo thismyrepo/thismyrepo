@@ -23,9 +23,13 @@
 - [Apollo 11 AGC Code](https://github.com/chrislgarry/Apollo-11)  
   *A legendary example of engineering—explore the code that powered the first moon landing!*
 
-## 📈 GitHub Stats
+## 📊 Top Languages
 
-![thismyrepo's GitHub stats](https://github-readme-stats.vercel.app/api?username=thismyrepo&show_icons=true&hide=prs&count_private=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thismyrepo&layout=compact&theme=tokyonight)
+
+## 🏆 Profile Trophy
+
+![Profile Trophy](https://github-profile-trophy.vercel.app/?username=thismyrepo&theme=tokyonight&no-bg=true&row=1&column=8)
 
 ## 🧠 Currently Learning
 
